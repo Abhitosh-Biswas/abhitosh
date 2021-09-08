@@ -2,7 +2,7 @@ package hello;
 
 public class Greeter {
   public String sayHello() {
-    return "SCM Poll_3";
+    return "SCM Poll_4";
 
   }
 }
